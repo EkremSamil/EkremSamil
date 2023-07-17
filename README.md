@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ekrem Samil</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
 
 [![MasterHead](https://1.bp.blogspot.com/-2ivCJOjKWk0/YWhvY3KZ0iI/AAAAAAAALBc/1sAaoUb_AcwkewTHzVom8gcM823zxCjGgCLcBGAsYHQ/s0/image1.png)
